@@ -28,30 +28,21 @@ Secondly, For Authorities/Officials at the Public Transportation, This App Allow
 
 For User Side Application
 
-<img src="./screenshots/U1.jpeg" width="170">
-<img src="./screenshots/U2.jpeg" width="170">
-<img src="./screenshots/U3.jpeg" width="170">
-<img src="./screenshots/U4.jpeg" width="170">
-<img src="./screenshots/U5.jpeg" width="170">
-<img src="./screenshots/U6.jpeg" width="170">
-<img src="./screenshots/U7.jpeg" width="170">
-<img src="./screenshots/U8.jpeg" width="170">
-<img src="./screenshots/U9.jpeg" width="170">
-<img src="./screenshots/U10.jpeg" width="170">
+<img src="./screenshots/U1.jpeg" width="170"> <img src="./screenshots/U2.jpeg" width="170">
+<img src="./screenshots/U3.jpeg" width="170"> <img src="./screenshots/U4.jpeg" width="170">
+<img src="./screenshots/U5.jpeg" width="170"> <img src="./screenshots/U6.jpeg" width="170">
+<img src="./screenshots/U7.jpeg" width="170"> <img src="./screenshots/U8.jpeg" width="170">
+<img src="./screenshots/U9.jpeg" width="170"> <img src="./screenshots/U10.jpeg" width="170">
 <img src="./screenshots/U11.jpeg" width="170">
 
 ---
 
 For Authority Side Application
 
-<img src="./screenshots/A1.jpeg" width="170">
-<img src="./screenshots/A2.jpeg" width="170">
-<img src="./screenshots/A3.jpeg" width="170">
-<img src="./screenshots/A4.jpeg" width="170">
-<img src="./screenshots/A5.jpeg" width="170">
-<img src="./screenshots/A6.jpeg" width="170">
-<img src="./screenshots/A7.jpeg" width="170">
-<img src="./screenshots/A8.jpeg" width="170">
+<img src="./screenshots/A1.jpeg" width="170"> <img src="./screenshots/A2.jpeg" width="170">
+<img src="./screenshots/A3.jpeg" width="170"> <img src="./screenshots/A4.jpeg" width="170">
+<img src="./screenshots/A5.jpeg" width="170"> <img src="./screenshots/A6.jpeg" width="170">
+<img src="./screenshots/A7.jpeg" width="170"> <img src="./screenshots/A8.jpeg" width="170">
 
 ---
 

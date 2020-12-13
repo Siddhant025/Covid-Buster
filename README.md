@@ -14,7 +14,7 @@
 
 ## Smart Way to Travel Post Covid-19
 
-### Intelligent Post Lockdown Management System For Public Transportation
+### Post Lockdown Public Transportation Management System
 
 Our project is focusing on the current situation of covid 19. A Project solely for ensuring Peoples Saftey Post Covid-19 and to maintain social Distancing in more organized way.We Designed 2 Cross-Platform Application.
 

@@ -1,4 +1,4 @@
-# [___Covid Busters___]
+# [___Covid Busters___](https://covidbuster.herokuapp.com/)
 
 ---
 
@@ -57,17 +57,17 @@ For Authority Side Application
 
 For Covid Busters Website
 
-<img src="./screenshots/W1.PNG" >
-<img src="./screenshots/W2.PNG" >
-<img src="./screenshots/W3.PNG" >
-<img src="./screenshots/W4.PNG" >
-<img src="./screenshots/W5.PNG" >
-<img src="./screenshots/W6.PNG" >
-<img src="./screenshots/W7.PNG" >
-<img src="./screenshots/W8.PNG" >
-<img src="./screenshots/W9.PNG" >
-<img src="./screenshots/W10.PNG">
-<img src="./screenshots/W11.PNG">
+<img src="./screenshots/W1.png" >
+<img src="./screenshots/W2.png" >
+<img src="./screenshots/W3.png" >
+<img src="./screenshots/W4.png" >
+<img src="./screenshots/W5.png" >
+<img src="./screenshots/W6.png" >
+<img src="./screenshots/W7.png" >
+<img src="./screenshots/W8.png" >
+<img src="./screenshots/W9.png" >
+<img src="./screenshots/W10.png">
+<img src="./screenshots/W11.png">
 
 ## Technologies
 
@@ -106,7 +106,7 @@ Instructions For Using
 - Open The folder in Terminal and enter `npm install` This will install all dependency packages
 - Open Terminal and enter `npm start` To run the project on localhost
 - Open The Browser and goto `127.0.0.1:8080` or `localhost:8080` (if the port is busy look in terminal the port no. and enter that replacing 3000) or
-- Visit :
+- Visit : https://covidbuster.herokuapp.com/
 
 ---
 

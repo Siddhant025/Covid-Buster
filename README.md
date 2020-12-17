@@ -106,25 +106,25 @@ Instructions For Using
 > ### Ninad Kanchan
 
 - Flutter Devloper
-- Devloped the USER-SIDE Covid Busters Application
+- Devloped the USER-SIDE Enforcers Application
 
 ---
 
 > ### Siddhant Sharma
 
 - Flutter Devloper
-- Devloped the AUTHORITY-SIDE Covid Busters Application
+- Devloped the AUTHORITY-SIDE Enforcers Application
 
 ---
 
 > ### Sahil Singh Rawat
 
 - Web Devloper
-- Devloped the Covid Busters Website
+- Devloped the Enforcers Website
 
 ---
 
 > ### Nikhil Khandelwal
 
 - Web Devloper
-- Devloped the Covid Busters Website
+- Devloped the Enforcers Website

@@ -1,4 +1,4 @@
-# [___Covid Busters___](https://covidbuster.herokuapp.com/)
+# [___Enforcers___](https://covidbuster.herokuapp.com/)
 
 ---
 
@@ -118,6 +118,12 @@ Instructions For Using
 ---
 
 > ### Sahil Singh Rawat
+
+- Web Devloper
+- Devloped the Covid Busters Website
+
+
+> ### Nikhil Khandelwal
 
 - Web Devloper
 - Devloped the Covid Busters Website
